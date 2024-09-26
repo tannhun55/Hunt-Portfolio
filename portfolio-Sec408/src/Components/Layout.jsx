@@ -2,11 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './LayoutStyle.css'; // Ensure you import the CSS file
 
+//HTML Coding to produce the layout of the website
 const Layout = ({ children }) => (
   <div>
     <nav className="navbar">
       <div className="logo">
-        <img src="/assets/PortLogo.jpg" alt="logo" />
+        <img src="/src/assets/CrowLogo3.jpg" alt="logo" />
       </div>
       <ul>
         <li><Link to="/">Home</Link></li>

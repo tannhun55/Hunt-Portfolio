@@ -1,4 +1,4 @@
-/* ContactStyle.css */
+/* ContactStyle CSS File */
 .contact-container {
   display: flex;
   flex-direction: column;
@@ -6,7 +6,7 @@
   align-items: center; /* Centers horizontally */
   min-height: 100vh; /* Full viewport height */
   text-align: center;
-  padding: 50px;
+  padding: 75px;
   box-sizing: border-box;
   }
   
@@ -15,7 +15,7 @@
   }
   
   .contact-form {
-    max-width: 500px;
+    max-width: 450px;
     width: 100%;
     text-align: left;
   }
@@ -43,7 +43,7 @@
   
   .btn {
     display: inline-block;
-    margin: 10px 0;
+    margin: 5px 150px;
     padding: 10px 15px;
     background-color: #333;
     color: white;

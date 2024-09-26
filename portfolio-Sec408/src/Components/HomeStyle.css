@@ -1,7 +1,8 @@
-/* HomeStyle.css */
+/* HomeStyle CSS File */
 .home-container {
     text-align: center;
-    padding: 50px;
+    padding: 75px;
+
   }
   
   .mission-statement {
@@ -10,7 +11,7 @@
   }
   
   .home-buttons {
-    margin-top: 30px;
+    margin-top: 300px;
   }
   
   .home-buttons .btn {

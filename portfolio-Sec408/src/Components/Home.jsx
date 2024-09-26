@@ -2,10 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './HomeStyle.css'; //CSS file
 
+//HTML Coding to produce the Home page
 const Home = () => (
   <div className="home-container">
-    <h1>Welcome to My Portfolio</h1>
-    <p className="mission-statement">My mission is to create impactful and innovative solutions through technology.</p>
+    <h1>Discover My Projects</h1>
+    <p className="mission-statement">
+      I strive to empower software development through a strong focus on cybersecurity, 
+      delivering secure and efficient solutions that protect user information and ensure system integrity. 
+      My commitment is to create innovative software that prioritizes security at every stage of the 
+      development process, fostering trust and reliability in every application.
+    </p>
     <div className="home-buttons">
       <Link to="/about" className="btn">About Me</Link>
       <Link to="/services" className="btn">Services</Link>

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './ContactStyle.css'; // CSS file
 
+// HTML Coding to produce the Contact page
 const Contact = () => {
   const navigate = useNavigate();
   const [formData, setFormData] = useState({

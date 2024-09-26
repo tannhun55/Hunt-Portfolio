@@ -1,12 +1,12 @@
-/* AboutStyle.css */
+/* AboutStyle CSS File */
 .about-container {
     text-align: center;
-    padding: 50px;
+    padding: 75px;
   }
   
   .profile-photo {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 400px;
     border-radius: 50%;
     margin: 20px 0;
   }

@@ -1,11 +1,11 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Home from './components/Home';
+import Home from './Components/Home';
 import About from './Webpages/about';
 import Contact from './Webpages/contact';  
 import Services from './Webpages/services';
 import Project from './Webpages/project'; 
-import Layout from './components/Layout';
+import Layout from './Components/Layout';
 import './components/LayoutStyle.css'; // Ensure you import the CSS file
 
 const MainRouter = () => {

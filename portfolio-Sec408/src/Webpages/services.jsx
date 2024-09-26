@@ -1,28 +1,31 @@
 import React from 'react';
 import './ServicesStyle.css'; //CSS file
 
+// HTML Coding to produce the Services page
 const Services = () => (
   <div className="services-container">
     <h1>Our Services</h1>
     <div className="service">
-      <img src="/assets/general-programming.jpg" alt="Service 1" className="service-image" />
+      <img src="\src\assets\Programming_photo.jpg" alt="Service 1" className="service-image" />
       <div className="service-info">
         <h2>General Programming</h2>
-        <p>We offer general programming services to help you build robust and efficient software solutions.</p>
+        <p>We offer general programming services to help you build robust 
+          and efficient software solutions with a focus on security
+          </p>
       </div>
     </div>
     <div className="service">
-      <img src="/assets/web-development.jpg" alt="Service 2" className="service-image" />
+      <img src="\src\assets\Cybersecurity_photo.jpg" alt="Service 2" className="service-image" />
       <div className="service-info">
-        <h2>Web Development</h2>
-        <p>Our web development services include creating responsive and dynamic websites tailored to your needs.</p>
+        <h2>Cybersecurity</h2>
+        <p>Safeguard Your Digital Assets with Our Cybersecurity Expertise</p>
       </div>
     </div>
     <div className="service">
-      <img src="/assets/mobile-apps.jpg" alt="Service 3" className="service-image" />
+      <img src="\src\assets\Project_Management.jpg" alt="Service 3" className="service-image" />
       <div className="service-info">
-        <h2>Mobile Apps</h2>
-        <p>We develop mobile applications that provide a seamless user experience on both iOS and Android platforms.</p>
+        <h2>Project Management</h2>
+        <p>Efficient Project Management for Seamless Execution and Success</p>
       </div>
     </div>
   </div>

@@ -1,4 +1,4 @@
-/* Layout.css */
+/* Layout CSS File */
 .navbar {
   position: fixed;
   top: 0;
@@ -10,7 +10,9 @@
 }
 
 .logo img {
-  height: 40px; 
+  width: 75px;
+  height: 56px;
+  margin-right: 10px;
 }
 
 .navbar ul {

@@ -1,7 +1,7 @@
-/* ServicesStyle.css */
+/* ServicesStyle CSS Files */
 .services-container {
     text-align: center;
-    padding: 50px;
+    padding: 75px;
   }
   
   .service {
@@ -11,8 +11,8 @@
   }
   
   .service-image {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 400px;
     border-radius: 10px;
     margin-right: 20px;
   }
