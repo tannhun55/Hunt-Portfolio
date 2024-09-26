@@ -1,0 +1,30 @@
+/* ServicesStyle.css */
+.services-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .service {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .service-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .service-info {
+    text-align: left;
+  }
+  
+  .service-info h2 {
+    margin: 0;
+  }
+  
+  .service-info p {
+    margin: 5px 0;
+  }

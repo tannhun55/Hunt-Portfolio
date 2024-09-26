@@ -1,0 +1,30 @@
+/* ProjectStyle.css */
+.projects-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .project {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .project-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-right: 20px;
+  }
+  
+  .project-info {
+    text-align: left;
+  }
+  
+  .project-info h2 {
+    margin: 0;
+  }
+  
+  .project-info p {
+    margin: 5px 0;
+  }
