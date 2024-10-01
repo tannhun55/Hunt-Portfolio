@@ -1,7 +1,7 @@
 /* HomeStyle CSS File */
 .home-container {
     text-align: center;
-    padding: 75px;
+    padding: 100px;
 
   }
   
@@ -11,7 +11,7 @@
   }
   
   .home-buttons {
-    margin-top: 300px;
+    margin-top: 20px;
   }
   
   .home-buttons .btn {
@@ -27,3 +27,16 @@
   .home-buttons .btn:hover {
     background-color: #555;
   }
+
+  .main-photo {
+    width: 300px;
+    height: 400px;
+    border-radius: 50%;
+    margin: 20px 0;
+  }
+  /* 
+ * File: HomeStyles.css
+ * Student's Name: Tanner Huntus
+ * StudentID: 301331363
+ * Date: 2024-10-01
+ */

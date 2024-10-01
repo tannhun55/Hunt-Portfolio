@@ -2,7 +2,15 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './ContactStyle.css'; // CSS file
 
+/* 
+ * File: contact.jsx
+ * Student's Name: Tanner Huntus
+ * StudentID: 301331363
+ * Date: 2024-10-01
+ */
+
 // HTML Coding to produce the Contact page
+//Javascript code to handle the form data
 const Contact = () => {
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
@@ -24,8 +32,9 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Handling form data to be sent to a server - Not implemented
-    console.log(formData);
-    navigate('/');
+    console.log('Form Data:', formData);
+    // When the user hits "Send Message", the user will be redirected to the home page
+    window.location.href = '/#home';
   };
 
   return (

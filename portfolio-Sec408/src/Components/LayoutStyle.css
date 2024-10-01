@@ -14,7 +14,7 @@
   height: 56px;
   margin-right: 10px;
 }
-
+/*NavBar Implementation*/
 .navbar ul {
   list-style-type: none;
   margin: 0;
@@ -39,3 +39,9 @@
 .content {
   padding: 10px;
 }
+/* 
+ * File: LayoutStyle.css
+ * Student's Name: Tanner Huntus
+ * StudentID: 301331363
+ * Date: 2024-10-01
+ */

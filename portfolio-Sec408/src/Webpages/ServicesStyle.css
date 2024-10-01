@@ -1,7 +1,7 @@
 /* ServicesStyle CSS Files */
 .services-container {
     text-align: center;
-    padding: 75px;
+    padding: 100px;
   }
   
   .service {
@@ -28,3 +28,9 @@
   .service-info p {
     margin: 5px 0;
   }
+  /* 
+ * File: ServicesStyle.css
+ * Student's Name: Tanner Huntus
+ * StudentID: 301331363
+ * Date: 2024-10-01
+ */

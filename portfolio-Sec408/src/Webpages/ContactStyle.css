@@ -6,7 +6,7 @@
   align-items: center; /* Centers horizontally */
   min-height: 100vh; /* Full viewport height */
   text-align: center;
-  padding: 75px;
+  padding: 100px;
   box-sizing: border-box;
   }
   
@@ -55,3 +55,9 @@
   .btn:hover {
     background-color: #555;
   }
+  /* 
+ * File: ContactStyle.css
+ * Student's Name: Tanner Huntus
+ * StudentID: 301331363
+ * Date: 2024-10-01
+ */
